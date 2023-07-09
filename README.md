@@ -141,5 +141,9 @@ The Covid-19 dataset contains detailed information on number of cases, number of
 4/continents with the highest death toll
 ![Alt text](img/image-6.png)
 
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkines260/Covid-Data-Explorations/main?labpath=projet.ipynb)
+
+
+
  
 
